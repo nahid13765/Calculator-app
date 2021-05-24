@@ -1,4 +1,5 @@
 # Calculator-app
 This calculator app create on android studio using java.
-![Screenshot_2](https://user-images.githubusercontent.com/72695590/119221516-9bf07f80-bb11-11eb-8078-c99d337d1fc2.png)
-![Screenshot_3](https://user-images.githubusercontent.com/72695590/119221545-b75b8a80-bb11-11eb-9c97-1b9036478e07.png)
+![Screenshot_9](https://user-images.githubusercontent.com/72695590/119319142-e30a7c00-bc9b-11eb-8aee-cd96f2659b31.png)
+![Screenshot_8](https://user-images.githubusercontent.com/72695590/119319149-e69e0300-bc9b-11eb-958c-30318738412b.png)
+
